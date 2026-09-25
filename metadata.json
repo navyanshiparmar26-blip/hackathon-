@@ -1,0 +1,7 @@
+{
+  "name": "Ripple",
+  "description": "An autonomous AI agent event planner that reasons transparently and replans in real time when disrupted.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
